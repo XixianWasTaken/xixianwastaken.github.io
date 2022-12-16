@@ -4,7 +4,7 @@ permalink: /members/
 title: Members
 description: memebers description
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 ## Director
