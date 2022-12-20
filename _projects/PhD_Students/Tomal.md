@@ -4,6 +4,6 @@ title: <font size = 3> Md. Armanuzzaman Tomal </font>
 description: Fall 2019 -
 img: assets/img/members/tomal.jpg
 importance: 3
-category: PhD Student
+category: PhD Students
 redirect: https://tomal-kuet.github.io/armanuzzaman/
 ---

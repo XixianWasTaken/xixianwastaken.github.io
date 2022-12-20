@@ -4,7 +4,7 @@ title: Xi Tan
 description: Fall 2019 - 
 img: assets/img/members/xi.jpg
 importance: 2
-category: PhD Student
+category: PhD Students
 redirect: https://mintancy.github.io/
 ---
 
