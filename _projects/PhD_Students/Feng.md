@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feng Wei
+title: Feng Wei <br> <br>
 description: Fall 2018 -
 img: assets/img/members/wei.jpg
 importance: 5

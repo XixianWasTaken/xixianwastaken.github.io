@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <font size = 3> Md. Armanuzzaman Tomal </font>
+title:  Md. Armanuzzaman Tomal
 description: Fall 2019 -
 img: assets/img/members/tomal.jpg
 importance: 3

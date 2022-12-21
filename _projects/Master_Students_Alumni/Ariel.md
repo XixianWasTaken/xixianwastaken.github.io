@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Ariel Shevah 
+title: Ariel Shevah <br> <br>
 description: Spring 2021
 img: assets/img/members/ariel.jpg
-importance: 5
+importance: 8
 category: Master Students Alumni
 ---

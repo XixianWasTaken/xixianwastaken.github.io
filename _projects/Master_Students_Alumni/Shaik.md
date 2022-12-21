@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Shaik Sabiha
+title: Shaik Sabiha <br> <br>
 description: Fall 2021
 img: assets/img/members/sabiha.jpg
-importance: 1
+importance: 3
 category: Master Students Alumni
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Malav Vyas 
+title: Malav Vyas <br> <br>
 description: Spring 2021
 img: assets/img/members/malav.jpg
-importance: 2
+importance: 4
 category: Master Students Alumni
 ---

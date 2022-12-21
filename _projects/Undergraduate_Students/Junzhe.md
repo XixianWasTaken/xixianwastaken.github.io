@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Junzhe Li
+title: Junzhe Li <br> <br>
 description: Fall 2021
 img: assets/img/members/junzhe.jpg
 importance: 2
