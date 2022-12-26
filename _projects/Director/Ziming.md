@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr.Ziming Zhao
+title: Dr. Ziming Zhao
 description: Director
 img: assets/img/prof_pic.jpg
 importance: 1
