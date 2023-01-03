@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gaoxiang Liu <br> <br>
+title: <font size = 4> Gaoxiang Liu </font>
 description: Spring 2023 -
 img: assets/img/members/gaoxiang.png
 importance: 7

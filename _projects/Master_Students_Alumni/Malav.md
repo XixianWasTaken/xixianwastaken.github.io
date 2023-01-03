@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Malav Vyas <br> <br>
+title: <font size =4 > Malav Vyas </font>
 description: Spring 2021
 img: assets/img/members/malav.jpg
 importance: 4

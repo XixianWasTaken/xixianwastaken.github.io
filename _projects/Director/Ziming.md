@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Ziming Zhao
+title: <font size = 4> Dr. Ziming Zhao </font>
 description: Director
 img: assets/img/prof_pic.jpg
 importance: 1

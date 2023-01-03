@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arnod Paul <br> <br>
+title: <font size =4 > Arnod Paul </font>
 description: Fall 2020 - Spring 2021
 img: assets/img/members/arnob.jpg
 importance: 5

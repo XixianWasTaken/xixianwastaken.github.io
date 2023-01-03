@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eric Bishop
+title: <font size =4 >  Eric Bishop </font>
 description: Fall 2021
 img: assets/img/members/EricBishop.jpeg
 importance: 1
