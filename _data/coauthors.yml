@@ -1,3 +1,51 @@
 "Hu":
   - firstname: ["Hongxin Hu","Hongxin", "Hu"]
     url: https://cse.buffalo.edu/~hongxinh/
+
+"Doupé":
+  - firstname: ["Adam Doupé","Adam", "Doupé"]
+    url: https://adamdoupe.com/
+
+"Ahn":
+  - firstname: ["Gail-Joon Ahn", "Gail-Joon", "Ahn"]
+    url: https://www.public.asu.edu/~gahn1/
+
+"Shoshitaishvili":
+  - firstname: ["Yan Shoshitaishvili", "Yan", "Shoshitaishvili"]
+    url: https://yancomm.net/
+
+"Bao":
+  - firstname: ["Tiffany Bao", "Tiffany", "Bao"]
+    url: https://www.tiffanybao.com/
+
+"Wang":
+  - firstname: ["Ruoyu Wang","Ruoyu", "Wang", "Fish"]
+    url: https://ruoyuwang.me/
+
+"Zhang":
+  - firstname: ["Penghui Zhang","Penghui", "Zhang"]
+    url: https://formerbuckeye.github.io/me/
+
+"Sun":
+  - firstname: ["Zhibo Sun","Zhibo", "Sun"]
+    url: https://www.zhibosun.me/index.html
+
+"Oest":
+  - firstname: ["Adam Oest","Adam", "Oest"]
+    url: https://www.adamoest.com/
+
+"Rubio-Medrano":
+  - firstname: ["Carlos Rubio-Medrano","Carlos", "Rubio-Medrano"]
+    url: https://carlosrubiomedrano.com/
+
+"Vishwamitra":
+  - firstname: ["Nishant Vishwamitra","Nishant", "Vishwamitra"]
+    url: https://nishantvishwamitra.github.io/
+
+"Cheng":
+  - firstname: ["Long Cheng","Long", "Cheng"]
+    url: https://people.computing.clemson.edu/~lcheng2/
+
+"Gu":
+  - firstname: ["Guofei Gu","Guofei", "Gu"]
+    url: https://people.engr.tamu.edu/guofei/index.html
