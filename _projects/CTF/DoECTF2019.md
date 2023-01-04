@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DoECTF2019
+title: Department of Energy CyberForce Competition 2019
 description: Team Cacti (Jake Brown, Connor Shade, Jack McKenna, Aaron Gdanski, Devon Reilly, Pierce Walker) advised by Dr. Ziming Zhao prepares for 2019 Department of Energy CyberForce Competition. 
 img: assets/img/CTF/DoECTF2019.png
 importance: 6
