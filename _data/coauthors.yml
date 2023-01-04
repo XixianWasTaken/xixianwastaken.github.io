@@ -18,10 +18,6 @@
   - firstname: ["Tiffany Bao", "Tiffany", "Bao"]
     url: https://www.tiffanybao.com/
 
-"Wang":
-  - firstname: ["Ruoyu Wang","Ruoyu", "Wang", "Fish"]
-    url: https://ruoyuwang.me/
-
 "Zhang":
   - firstname: ["Penghui Zhang","Penghui", "Zhang"]
     url: https://formerbuckeye.github.io/me/
@@ -71,3 +67,52 @@
 "Holt":
   - firstname: ["Thomas Holt","Thomas", "Holt", "Holt", "Thomas J. Holt", "Thomas J."]
     url: https://cj.msu.edu/directory/holt-thomas.html
+
+"Yang":
+  - firstname: ["Dejun Yang","Dejun", "Yang"]
+    url: https://people.mines.edu/djyang/
+
+"Chen":
+  - firstname: ["Alfred Chen","Alfred", "Chen", "Qi Alfred Chen", "Qi Chen", "Qi Alfred"]
+    url: https://www.ics.uci.edu/~alfchen/
+
+"Luo":
+  - firstname: ["Feng Luo","Feng", "Luo"]
+    url: https://people.computing.clemson.edu/~luofeng/
+
+"Lamp":
+  - firstname: ["Josephine Lamp","Josephine", "Lamp"]
+    url: https://www.josephinelamp.com/
+
+"Li":
+  - firstname: ["Hongda Li","Hongda", "Li"]
+    url: http://web.hongdal.net/
+
+"Wang":
+  - firstname: ["Wang, Ruoyu","Ruoyu", "Wang"]
+    url: https://ruoyuwang.me/
+
+"Qiao":
+  - firstname: ["Chunming Qiao","Chunming", "Wang", "Qiao"]
+    url: https://cse.buffalo.edu/~qiao/index.htm
+
+"Li":
+  - firstname: ["Kang Li","Kang", "Li"]
+    url: http://cobweb.cs.uga.edu/~kangli/
+
+"Chen":
+  - firstname: ["Jing Chen","Jing", "Chen"]
+    url: https://scholar.google.com/citations?user=MZ8wtusAAAAJ&hl=en
+
+"Chen":
+  - firstname: ["Kai Chen","Kai", "Chen"]
+    url: https://kaichen.org/
+  
+"Wei":
+  - firstname: ["Feng Wei","Feng", "Wei"]
+    url: https://akafengfeng.github.io/
+  
+"Armanuzzaman":
+  - firstname: ["Md Armanuzzaman","Armanuzzaman", "Md"]
+    url: https://tomal-kuet.github.io/armanuzzaman/
+  
