@@ -3,7 +3,7 @@
     url: https://cse.buffalo.edu/~hongxinh/
 
 "Doupé":
-  - firstname: ["Adam Doupé","Adam", "Doupé"]
+  - firstname: ["Adam Doupé","Adam", "Doupé", "Doupe"]
     url: https://adamdoupe.com/
 
 "Ahn":
@@ -49,3 +49,25 @@
 "Gu":
   - firstname: ["Guofei Gu","Guofei", "Gu"]
     url: https://people.engr.tamu.edu/guofei/index.html
+
+"Cho":
+  - firstname: ["Haehyun Cho","Haehyun", "Cho"]
+    url: https://haehyun.github.io/
+
+"Tu":
+  - firstname: ["Huahong Tu","Huahong", "Tu"]
+    url: https://huahongtu.me/publications/
+
+"Wang":
+  - firstname: ["Kuang-Ching Wang","Kuang-Ching", "Wang"]
+    url: https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/kwang.html
+
+
+"Kambhampati":
+  - firstname: ["Subbarao Kambhampati","Kambhampati", "Subbarao"]
+    url: https://rakaposhi.eas.asu.edu/
+
+
+"Holt":
+  - firstname: ["Thomas Holt","Thomas", "Holt", "Holt", "Thomas J. Holt", "Thomas J."]
+    url: https://cj.msu.edu/directory/holt-thomas.html
