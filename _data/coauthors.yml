@@ -54,15 +54,13 @@
   - firstname: ["Huahong Tu","Huahong", "Tu"]
     url: https://huahongtu.me/publications/
 
-"Wang":
-  - firstname: ["Kuang-Ching Wang","Kuang-Ching", "Wang"]
+"Kuang-Ching":
+  - firstname: ["Kuang-Ching Wang", "Kuang-Ching", "Wang"]
     url: https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/kwang.html
-
 
 "Kambhampati":
   - firstname: ["Subbarao Kambhampati","Kambhampati", "Subbarao"]
     url: https://rakaposhi.eas.asu.edu/
-
 
 "Holt":
   - firstname: ["Thomas Holt","Thomas", "Holt", "Holt", "Thomas J. Holt", "Thomas J."]
@@ -85,7 +83,7 @@
     url: https://www.josephinelamp.com/
 
 "Li":
-  - firstname: ["Hongda Li","Hongda", "Li"]
+  - firstname: ["Hongda Li", "Hongda", "Li", "Li, Hongda"]
     url: http://web.hongdal.net/
 
 "Wang":
@@ -116,7 +114,7 @@
   - firstname: ["Md Armanuzzaman","Armanuzzaman", "Md"]
     url: https://tomal-kuet.github.io/armanuzzaman/
 
-"Hongda":
+"Li":
   - firstname: ["Hongda Li","Hongda", "Li", "Li Hongda"]
     url: http://web.hongdal.net/
   
@@ -143,3 +141,15 @@
 "Vigna":
   - firstname: ["Giovanni Vigna","Giovanni", "Vigna"]
     url: https://sites.cs.ucsb.edu/~vigna/
+
+"Liao":
+  - firstname: ["Kevin Liao","Kevin", "Liao"]
+    url: https://www.kevliao.com/
+
+"Vadlamudi":
+  - firstname: ["Satya Gautam Vadlamudi","Satya", "Gautam", "Gautam Vadlamudi", "Satya Gautam"]
+    url: https://sites.google.com/site/satyagautamv/
+
+"Guo":
+  - firstname: ["Shanqing Guo","Guo", "Shanqing"]
+    url: https://sduiseclab.github.io/profile/guoshanqing.html
