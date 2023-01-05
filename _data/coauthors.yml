@@ -71,7 +71,7 @@
     url: https://people.mines.edu/djyang/
 
 "Chen":
-  - firstname: ["Alfred Chen","Alfred", "Chen", "Qi Alfred Chen", "Qi Chen", "Qi Alfred"]
+  - firstname: ["Qi", "Qi Alfred", "Alfred", "Q.", "A."]
     url: https://www.ics.uci.edu/~alfchen/
 
 "Luo":
@@ -95,7 +95,7 @@
     url: https://cse.buffalo.edu/~qiao/index.htm
 
 "Li":
-  - firstname: ["Kang Li","Kang", "Li"]
+  - firstname: ["Kang", "K,"]
     url: http://cobweb.cs.uga.edu/~kangli/
 
 "Chen":
@@ -153,3 +153,23 @@
 "Guo":
   - firstname: ["Shanqing Guo","Guo", "Shanqing"]
     url: https://sduiseclab.github.io/profile/guoshanqing.html
+
+"Kokulu":
+  - firstname: ["Faris Bugra Kokulu","Faris", "Faris Bugra"]
+    url: https://bugrakokulu.com/#page-top
+  
+"Soneji":
+  - firstname: ["Ananta Soneji","Ananta", "Soneji"]
+    url: https://anantasoneji.com/
+
+"Caine":
+  - firstname: ["Kelly Caine","Kelly", "Caine"]
+    url: http://kellycaine.org/
+
+"Shen":
+  - firstname: ["Junjie Shen","Shen", "Junjie"]
+    url: https://www.junjieshen.com/
+
+"Wang":
+  - firstname: ["Ningfei Wang","Ningfei", "Wang"]
+    url: http://me.ningfei.org/
