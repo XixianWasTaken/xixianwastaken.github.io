@@ -120,3 +120,26 @@
   - firstname: ["Hongda Li","Hongda", "Li", "Li Hongda"]
     url: http://web.hongdal.net/
   
+"Kyung":
+  - firstname: ["Sukwha Kyung","Sukwha", "Kyung"]
+    url: https://sukwhakyung.com/about/
+
+"Baek":
+  - firstname: ["Jaejong Baek","Jaejong", "Baek"]
+    url: https://sites.google.com/view/jjbaek/home
+
+"Park":
+  - firstname: ["Jinbum Park","Jinbum", "Park"]
+    url: https://jinb-park.github.io/
+
+"Dixit":
+  - firstname: ["Vaibhav Hemant Dixit","Vaibhav", "Hemant", "Dixit", "Vaibhav Hemant"]
+    url: https://vaibhavdixit.com/
+
+"Kruegel":
+  - firstname: ["Christopher Kruegel","Christopher", "Kruegel"]
+    url: https://sites.cs.ucsb.edu/~chris/
+
+"Vigna":
+  - firstname: ["Giovanni Vigna","Giovanni", "Vigna"]
+    url: https://sites.cs.ucsb.edu/~vigna/
